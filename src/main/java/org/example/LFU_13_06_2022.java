@@ -59,7 +59,5 @@ public class LFU_13_06_2022 {
         lists.get(1).add(key);
 
     }
-
-
-
 }
+Aravind's review : There is a bug. 
